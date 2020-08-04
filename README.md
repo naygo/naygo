@@ -1,16 +1,23 @@
-### Hi there 👋
-
 <!--
-**naygo/naygo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**naygo/naygo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 -->
+
+```markdown
+<!-- <img width="auto" src=""> -->
+
+# Nayla Gomes
+
+## Olá pessoal 👋
+Gosto muito de aprender e conhecer coisas novas.
+Atualmente, sou Estagiária de Desenvolvimento na **Squadra Tecnologia** :computer:
+
+ &nbsp;
+ <br/> :blue_heart: &nbsp; Buscando colaborar com projetos que me ajudem a melhorar minhas habilidades em desenvolvimento web
+ <br/> :blush: &nbsp; Posso te ajudar com o básico de desenvolvimento web
+ <br/> :computer: &nbsp; Stack em aprendizagem: HTML, CSS, JavaScript, Node.js, Typescript, ReactJS, Angular
+ <br/> 💬  &nbsp; Sobre mim: Amo tecnologias, games (LoL, Valorant, etc), seriados e animes
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-NaylaGomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/naygo/)](https://www.linkedin.com/in/naygo/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-nayla.cgs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayla.cgs@gmail.com)](mailto:nayla.cgs@gmail.com)
+
+```
