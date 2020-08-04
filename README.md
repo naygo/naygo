@@ -15,6 +15,7 @@ Gosto muito de aprender e conhecer coisas novas.
  <br/> :books: &nbsp; Stack em aprendizagem: HTML, CSS, JavaScript, Node.js, Typescript, ReactJS, Angular
  </br> &emsp;&emsp; :star: &nbsp;Qualquer dica e ajuda é bem-vinda!
  <br/> 💬  &nbsp; Sobre mim: Amo tecnologias, games (LoL, Valorant, etc), seriados e animes
+ 
  <br/> :mailbox: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-NaylaGomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/naygo/)](https://www.linkedin.com/in/naygo/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-nayla.cgs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayla.cgs@gmail.com)](mailto:nayla.cgs@gmail.com)
