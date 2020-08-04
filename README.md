@@ -2,7 +2,6 @@
 **naygo/naygo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 -->
 
-```markdown
 <!-- <img width="auto" src=""> -->
 
 # Nayla Gomes
@@ -20,4 +19,3 @@ Atualmente, sou Estagiária de Desenvolvimento na **Squadra Tecnologia** :comput
 | 
 [![Gmail Badge](https://img.shields.io/badge/-nayla.cgs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayla.cgs@gmail.com)](mailto:nayla.cgs@gmail.com)
 
-```
