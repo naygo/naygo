@@ -8,7 +8,6 @@
 
 ## Olá pessoal 👋
 Gosto muito de aprender e conhecer coisas novas.
-
 <br/>Atualmente, sou Estagiária de Desenvolvimento na **Squadra Tecnologia** :computer:
 
  <br/> :blue_heart: &nbsp; Buscando colaborar com projetos que me ajudem a melhorar minhas habilidades em desenvolvimento web
