@@ -6,7 +6,7 @@
 
 # Nayla Gomes
 
-## Olá pessoal 👋
+## Bom dia! 👋
 Gosto muito de aprender e conhecer coisas novas.
 <br/>Atualmente, sou Estagiária de Desenvolvimento na **Squadra Tecnologia** :computer:
 
