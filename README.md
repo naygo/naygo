@@ -9,10 +9,10 @@ Gosto muito de aprender e conhecer coisas novas.
 <br/>Atualmente, sou Estagiária de Desenvolvimento na **Squadra Tecnologia** :computer:
 
  <br/> :blue_heart: &nbsp; Buscando colaborar com projetos que me ajudem a melhorar minhas habilidades em desenvolvimento web
- <br/> :blush: &nbsp; Posso te ajudar com o básico de desenvolvimento web, é só chamar :wink:
- <br/> :books: &nbsp; Stack em aprendizagem: HTML, CSS, JavaScript, Node.js, Typescript, ReactJS, Angular
+ <br/> :blush: &nbsp; Posso te ajudar com desenvolvimento web e com um pouco de backend, é só chamar :wink:
+ <br/> :books: &nbsp; Stack em aprendizagem: HTML, CSS, JavaScript, Node.js, Typescript, Angular
  </br> &emsp;&emsp; :star: &nbsp;Qualquer dica e ajuda é bem-vinda!
- <br/> 💬  &nbsp; Sobre mim: Amo tecnologias, games (LoL, Valorant, etc), seriados e animes
+ <br/> 💬  &nbsp; Sobre mim: Amo games (LoL, Valorant, etc), seriados e animes
  
  <br/> :mailbox: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-NaylaGomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/naygo/)](https://www.linkedin.com/in/naygo/) 
 | 
