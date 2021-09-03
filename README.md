@@ -6,7 +6,7 @@
 
 ## Bom dia! 👋
 Gosto muito de aprender e conhecer coisas novas.
-<br/>Atualmente, sou Estagiária de Desenvolvimento na **Squadra Digital** :computer:
+<br/>Analista Desenvolvedor - Trainee na **Squadra Digital** :computer:
 
  <br/> :blue_heart: &nbsp; Buscando colaborar com projetos que me ajudem a melhorar minhas habilidades em desenvolvimento web
  <br/> :blush: &nbsp; Posso te ajudar com desenvolvimento web e com um pouco de backend, é só chamar :wink:
