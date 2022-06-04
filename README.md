@@ -4,7 +4,7 @@
 
 ## Hi!
 
-My name is Nayla Gomes, I live in Belo Horizonte (Brazil) and I'm a Front-end Angular Developer at Squadra Digital 😊
+My name is Nayla Gomes and I'm a Front-end Angular Developer at Squadra Digital 😊
 
 ## Detailed information
 
@@ -12,7 +12,7 @@ My name is Nayla Gomes, I live in Belo Horizonte (Brazil) and I'm a Front-end An
 * **Age**: 21
 * **Living in**: Belo Horizonte - MG, Brazil
 * **Stack**: Angular - TypeScript - HTML - CSS - Node.js
-* **University**: Computer Technician - SENAI | Information Systems - PUC.
+* **Formation**: Computer Technician - SENAI | Information Systems - PUC.
 
  
  <br/> :mailbox: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-NaylaGomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/naygo/)](https://www.linkedin.com/in/naygo/) 
