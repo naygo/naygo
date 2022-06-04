@@ -6,7 +6,7 @@
 
 ## Bom dia! 👋
 Gosto muito de aprender e conhecer coisas novas.
-<br/>Desenvolvedora Full Stack Júnior na **Squadra Digital** :computer:
+<br/>Desenvolvedora Full Stack Pleno na **Squadra Digital** :computer:
 
  <br/> :blue_heart: &nbsp; Buscando colaborar com projetos que me ajudem a melhorar minhas habilidades em desenvolvimento web
  <br/> :blush: &nbsp; Posso te ajudar com desenvolvimento web e com um pouco de backend, é só chamar :wink:
