@@ -9,7 +9,7 @@ My name is Nayla Gomes and I'm a Front-end Angular Developer at Squadra Digital 
 ## Detailed information
 
 * **Name**: Nayla Gomes
-* **Age**: 21
+* **Age**: 22
 * **Living in**: Belo Horizonte - MG, Brazil
 * **Stack**: Angular - TypeScript - HTML - CSS - Node.js
 * **Formation**: Computer Technician - SENAI | Information Systems - PUC.
