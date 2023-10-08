@@ -24,6 +24,11 @@ Feel free to connect with me for collaboration or a friendly chat:
 
 Here are some of my online big projects:
 
-😺 [HUBI](https://www.hubinclusivo.com/) ▸ Platform made for the HUBI project, which is aimed at the inclusive Valorant scenario.
+😺 [HUBI](https://www.hubinclusivo.com/) ▸ platform made for the HUBI project, which is aimed at the inclusive Valorant scenario.
+
+Other interesting projects:
+- [mangadex-downloader](https://github.com/naygo/mangadex-downloader): a Node.js CLI project for downloading manga from the MangaDex API.
+- [bot-faceit-discord](https://github.com/naygo/bot-faceit-discord): a Discord bot with integration with the Faceit API.
+
 
 Feel free to explore these projects and get in touch if you'd like to learn more or collaborate!
