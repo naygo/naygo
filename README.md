@@ -20,15 +20,12 @@ Feel free to connect with me for collaboration or a friendly chat:
 📧 Email: [nayla.cgs@gmail.com](mailto:nayla.cgs@gmail.com)
 🔗 LinkedIn: [Nayla Gomes](https://www.linkedin.com/in/naygo/)
 
-### Projects
+### Some cool projects
 
-Here are some of my online big projects:
-
-😺 [HUBI](https://www.hubinclusivo.com/) ▸ platform made for the HUBI project, which is aimed at the inclusive Valorant scenario.
-
-Other interesting projects:
-- [mangadex-downloader](https://github.com/naygo/mangadex-downloader): a Node.js CLI project for downloading manga from the MangaDex API.
-- [bot-faceit-discord](https://github.com/naygo/bot-faceit-discord): a Discord bot with integration with the Faceit API.
+- 😺 [HUBI](https://www.hubinclusivo.com/) ▸ platform made for the HUBI project, which is aimed at the inclusive Valorant scenario [[repository](https://github.com/naygo/hubi)].
+- 🎥 [CINEFAN](https://frontend-tcc-production.up.railway.app/) ▸ project created for the Information Systems college degree's final project; a movie information repository with the ability to filter them through various properties [[frontend](https://github.com/ViniciusAlexsander/frontend-tcc?tab=readme-ov-file) - [backend](https://github.com/ViniciusAlexsander/backend-tcc)].
+- [mangadex-downloader](https://github.com/naygo/mangadex-downloader) ▸ a Node.js CLI project for downloading manga from the MangaDex API.
+- [bot-faceit-discord](https://github.com/naygo/bot-faceit-discord) ▸ a Discord bot with integration with the Faceit API.
 
 
 Feel free to explore these projects and get in touch if you'd like to learn more or collaborate!
