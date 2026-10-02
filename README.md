@@ -4,10 +4,10 @@ software engineer · [Portfolio](https://naygo.dev.br/)
 
 ### online projects
 
-- [tide](https://tide-eight-pearl.vercel.app/) — A bullet journal in your browser.
-- [kaahtls](https://kaahtls.com/) — Portfolio website for a video editor.
-- [Cinebomba](https://cinebomba.com.br/) — A watch-party log for friends.
-- [Luar](https://www.luar-mkt.com.br/) — Website for a marketing agency.
+- [tide](https://tide-eight-pearl.vercel.app/) ▸ A bullet journal in your browser.
+- [kaahtls](https://kaahtls.com/) ▸ Portfolio website for a video editor.
+- [Cinebomba](https://cinebomba.com.br/) ▸ A watch-party log for friends.
+- [Luar](https://www.luar-mkt.com.br/) ▸ Website for a marketing agency.
 
 ### other cool projects
 
@@ -16,5 +16,5 @@ software engineer · [Portfolio](https://naygo.dev.br/)
 
 ### study archives
 
-- [estudos-programacao](https://github.com/naygo/estudos-programacao) — Courses, experiments and interview challenges.
-- [estudos-faculdade](https://github.com/naygo/estudos-faculdade) — College exercises and projects from 2019–2022.
+- [estudos-programacao](https://github.com/naygo/estudos-programacao) ▸ Courses, experiments and interview challenges.
+- [estudos-faculdade](https://github.com/naygo/estudos-faculdade) ▸ College exercises and projects from 2019–2022.
