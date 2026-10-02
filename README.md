@@ -1,6 +1,6 @@
 # nayla gomes
 
-software engineer · [Portfolio](https://naygo.dev.br/)
+software engineer · https://naygo.dev.br/
 
 ### online projects
 
